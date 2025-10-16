@@ -14,7 +14,7 @@
     "react-dom": "18.2.0",
     "luxon": "^3.5.0",
     "astronomy-engine": "2.1.19",
-    "node-fetch": "^3.4.1"
+    "node-fetch": "^3.3.2"
   },
   "engines": {
     "node": ">=18.0.0"
